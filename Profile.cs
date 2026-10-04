@@ -1,0 +1,1 @@
+Console.WriteLine("Chức năng quản lý trang cá nhân");
